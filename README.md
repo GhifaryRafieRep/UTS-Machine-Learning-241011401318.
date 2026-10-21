@@ -1,8 +1,8 @@
 UTS Machine Learning
 
 - Nama         : Ghifary Rafie Ananda
-- NIM          : 241011401318
-- Kelas        : Reg B
+- NIM            : 241011401318
+- Kelas         : Reg B
 - random_state : 18 
 
 Seluruh model dan metrik diimplementasikan sendiri dengan NumPy (library: numpy, pandas, matplotlib).
